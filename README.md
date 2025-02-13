@@ -4,10 +4,10 @@ connect to the lamp with wifi,
 access to webpage 192.168.4.1
 4 butons ;
 luminosity of lamp from 0 (no light) to 255 (full bright)
-+ (add luminosity)
-- (remove luminosity)
-ON (full bright)
-OFF (no light)
+- + (add luminosity)
+- - (remove luminosity)
+- ON (full bright)
+- OFF (no light)
 
 have fun !
 
