@@ -1,13 +1,19 @@
 13 fev 2025.
-create a connected lamp (self SSID)
-connect to the lamp with wifi,
+
+Create a connected lamp (self SSID) based on cheap chinese USB lamp (like this one : https://fr.aliexpress.com/item/1005005089306258.html)
+
+HOW TO USE :
+
+Connect to the lamp with wifi SSID= "Ma_Lampe",
 access to webpage 192.168.4.1
-4 butons ;
+
 luminosity of lamp from 0 (no light) to 255 (full bright)
-- + (add luminosity)
-- - (remove luminosity)
-- ON (full bright)
-- OFF (no light)
+
+4 buttons ;
+- (+) (add luminosity)
+- (-) (remove luminosity)
+- (ON) (full bright)
+- (OFF) (no light)
 
 have fun !
 
