@@ -1,6 +1,6 @@
 13 fev 2025.
 
-Create a connected lamp (self SSID) based on cheap chinese USB lamp (like this one : https://fr.aliexpress.com/item/1005005089306258.html)
+Create a connected lamp (self SSID) based on cheap chinese USB lamp (like this one : [https://fr.aliexpress.com/item/1005005089306258.html](https://fr.aliexpress.com/item/1005006336580915.html))
 
 HOW TO USE :
 
